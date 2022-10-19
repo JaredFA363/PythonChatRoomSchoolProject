@@ -8,11 +8,13 @@ Admins have special commands.
 
 ## Using Applications
 - Clone Github repository
-- Run app.py
+- Run server.py to run server
+- Run main.py to run client
 
 ## Demos
 
-
+## Other
+Documentation included
 
 
 
